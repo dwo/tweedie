@@ -5,6 +5,9 @@ This repository contains my corrections to mechanical errors from Optical
 Character Recognition to the epub format of this book obtained from the
 Internet Archive.
 
+My aim is to make the main body of text continuous and readable, I am not
+aiming to preserve and transcribe all of the citations in the margins.
+
 LICENSE
 -------
 
