@@ -24,6 +24,11 @@ span.initial {
   color: #c03416;
   float: left;
   font-size: 3em;
-  line-height: 0.75em;
+  line-height: 0.65em;
+  margin-right: 0.1em;
   vertical-align: top;
+}
+
+table {
+  width: 100%;
 }
