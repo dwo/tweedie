@@ -207,12 +207,6 @@
       </navLabel>
       <content src="part0000.html#page-27"/>
     </pageTarget>
-    <pageTarget type="normal" id="pagetarget000031" value="18" playOrder="31">
-      <navLabel>
-        <text>18</text>
-      </navLabel>
-      <content src="part0000.html#page-18"/>
-    </pageTarget>
     <pageTarget type="normal" id="pagetarget000032" value="19" playOrder="32">
       <navLabel>
         <text>19</text>
