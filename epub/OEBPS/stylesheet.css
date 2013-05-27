@@ -19,3 +19,11 @@ img {
   text-align: center;
   margin: 1em auto;
 }
+
+span.initial {
+  color: #c03416;
+  float: left;
+  font-size: 3em;
+  line-height: 0.75em;
+  vertical-align: top;
+}
