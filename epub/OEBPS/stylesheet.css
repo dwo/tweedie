@@ -42,6 +42,10 @@ span.initial {
   vertical-align: top;
 }
 
+span.smallcaps {
+  font-variant: small-caps;
+}
+
 table {
   width: 100%;
 }
