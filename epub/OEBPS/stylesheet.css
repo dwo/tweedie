@@ -15,7 +15,7 @@ h2.appendix {
   font-variant: small-caps;
 }
 
-blockquote p em {
+em.red {
   color: #c03416;
 }
 
