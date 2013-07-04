@@ -12,6 +12,7 @@ div.newpage {
 
 h2.pagebreak {
   page-break-before: always;
+  page-break-after: avoid;
 }
 
 h1,h2,h3,h4 {
