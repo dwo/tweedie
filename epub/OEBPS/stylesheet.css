@@ -3,7 +3,11 @@ body {
 }
 
 div.newpage {
-  page-break-before: always;
+  display: none;
+}
+
+.pagebreak {
+  page-break-after: always;
 }
 
 h1,h2,h3,h4 {
