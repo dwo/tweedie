@@ -51,9 +51,8 @@ span.initial {
   color: #c03416;
   float: left;
   font-size: 3em;
-  line-height: 0.65em;
+  line-height: 0.45em;
   margin-right: 0.1em;
-  vertical-align: top;
 }
 
 span.smallcaps {
